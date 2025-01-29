@@ -1,2 +1,2 @@
 telnetsrv==0.4
-gevent==1.1.1
+gevent==24.10.1
